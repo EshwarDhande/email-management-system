@@ -1,0 +1,47 @@
+Subject: Request for Syllabus
+From: student1@example.com
+To: professor@example.com
+
+Hi Professor,
+I hope this message finds you well. Could you please share the syllabus for the upcoming semester?
+Thank you!
+
+---
+Subject: Clarification on Assignment
+From: student2@example.com
+To: professor@example.com
+
+Dear Professor,
+I have a question regarding the assignment due next week. Can you clarify the expectations?
+Regards,
+Student2
+
+---
+Subject: Request for Meeting
+From: student3@example.com
+To: advisor@example.com
+
+Hello Advisor,
+I would like to schedule a meeting to discuss my research topic. Please let me know your available times.
+Best,
+Student3
+
+---
+Subject: Feedback on Project
+From: student4@example.com
+To: professor@example.com
+
+Dear Professor,
+I would appreciate your feedback on my project proposal submitted last week. Thank you for your guidance.
+Sincerely,
+Student4
+
+---
+Subject: Absence Notification
+From: student5@example.com
+To: professor@example.com
+
+Hi Professor,
+I wanted to inform you that I will be absent from class tomorrow due to a personal matter. I will catch up on the missed material.
+Best,
+Student5

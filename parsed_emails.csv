@@ -1,0 +1,51 @@
+subject,from,to,body
+Request for Syllabus,student1@example.com,professor@example.com,"Hi Professor,
+I hope this message finds you well. Could you please share the syllabus for the upcoming semester?
+Thank you!"
+Clarification on Assignment,student2@example.com,professor@example.com,"Dear Professor,
+I have a question regarding the assignment due next week. Can you clarify the expectations?
+Regards,
+Student2"
+Request for Meeting,student3@example.com,advisor@example.com,"Hello Advisor,
+I would like to schedule a meeting to discuss my research topic. Please let me know your available times.
+Best,
+Student3"
+Feedback on Project,student4@example.com,professor@example.com,"Dear Professor,
+I would appreciate your feedback on my project proposal submitted last week. Thank you for your guidance.
+Sincerely,
+Student4"
+Absence Notification,student5@example.com,professor@example.com,"Hi Professor,
+I wanted to inform you that I will be absent from class tomorrow due to a personal matter. I will catch up on the missed material.
+Best,
+Student5"
+Internship Collaboration,hr@example.com,hod@example.com,"Dear HOD,
+We are interested in collaborating with your department to offer internship opportunities for your students. Could you please provide us with more information on how to proceed?
+Best regards,
+HR Team"
+Placement Opportunity,recruitment@example.com,hod@example.com,"Dear HOD,
+We are planning to conduct placement drives for graduating students in your department. Please let us know if we can set up a meeting to discuss this further.
+Thank you,
+Recruitment Team"
+Partnership Proposal,businessdev@example.com,hod@example.com,"Dear HOD,
+I hope this email finds you well. We would like to propose a partnership with your department to enhance industry exposure for your students. Can we schedule a call to discuss this?
+Warm regards,
+Business Development Team"
+Sponsorship Invitation,events@example.com,hod@example.com,"Dear HOD,
+We are hosting an event aimed at bridging the gap between academia and industry, and we would like to invite your department to sponsor this initiative. Please let us know if you are interested.
+Best,
+Events Coordinator"
+Confirmation of Research Sponsorship,partnerships@example.com,hod@example.com,"Dear HOD,
+We are excited about the opportunity to support innovative research projects in your department.
+Please let us know the next steps to formalize this partnership and discuss potential research areas we can focus on together.
+Best regards,  
+Partnerships Team"
+Request for Collaboration,researcher1@example.com,info@example.com,"Dear Team,
+I am interested in collaborating on your recent project. Please let me know if you're open to discussions."
+Question Regarding Your Publication,researcher2@example.com,support@example.com,"Hi,
+I have a question regarding your latest publication. Could you provide additional insights? Thank you!"
+Inquiry About Data Access,researcher3@example.com,data@example.com,"Hello,
+I am writing to inquire about accessing the dataset used in your recent study. It would be invaluable for my research."
+Discussion on Research Findings,researcher4@example.com,info@example.com,"Dear Team,
+I would like to schedule a discussion regarding the findings of your recent research. Please let me know your availability."
+Invitation to Present at Conference,researcher5@example.com,conference@organization.com,"Dear Committee,
+I would like to express my interest in presenting my latest research at the upcoming conference. Please let me know the submission process."
