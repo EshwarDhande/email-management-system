@@ -1,0 +1,49 @@
+Subject: Internship Collaboration
+From: hr@example.com
+To: hod@example.com
+
+Dear HOD,
+We are interested in collaborating with your department to offer internship opportunities for your students. Could you please provide us with more information on how to proceed?
+Best regards,
+HR Team
+
+---
+Subject: Placement Opportunity
+From: recruitment@example.com
+To: hod@example.com
+
+Dear HOD,
+We are planning to conduct placement drives for graduating students in your department. Please let us know if we can set up a meeting to discuss this further.
+Thank you,
+Recruitment Team
+
+---
+Subject: Partnership Proposal
+From: businessdev@example.com
+To: hod@example.com
+
+Dear HOD,
+I hope this email finds you well. We would like to propose a partnership with your department to enhance industry exposure for your students. Can we schedule a call to discuss this?
+Warm regards,
+Business Development Team
+
+---
+Subject: Sponsorship Invitation
+From: events@example.com
+To: hod@example.com
+
+Dear HOD,
+We are hosting an event aimed at bridging the gap between academia and industry, and we would like to invite your department to sponsor this initiative. Please let us know if you are interested.
+Best,
+Events Coordinator
+
+---
+Subject: Confirmation of Research Sponsorship
+From: partnerships@example.com
+To: hod@example.com
+
+Dear HOD,
+We are excited about the opportunity to support innovative research projects in your department.
+Please let us know the next steps to formalize this partnership and discuss potential research areas we can focus on together.
+Best regards,  
+Partnerships Team
