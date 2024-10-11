@@ -28,9 +28,9 @@ To set up the project locally, follow these steps:
    ```bash
    python src/email_processor.py
 
-##Project Experience
+## Project Experience
 
-In this project, I created an email dataset from scratch, comprising 50 emails for each of the following categories: students, researchers, and corporate professionals, resulting in a total of 66 million entries. I chose to train a DistilBERT model, as I believed the task at hand did not require a larger model with billions of parameters. My aim was to optimize memory usage, trading off some performance for efficiency.
+In this project, I created an email dataset from scratch, comprising 50 emails for each of the following categories: students, researchers, and corporate professionals. I chose to train a DistilBERT model (66 million parameters), as I believed the task at hand did not require a larger model with billions of parameters. My aim was to optimize memory usage, trading off some performance for efficiency.
 
 Additionally, I intended to develop a dataset that would allow the model to generate responses to queries from students and researchers. However, due to time constraints, I opted for pre-made templates, ultimately settling on just three templates instead of dynamic generation.
 
