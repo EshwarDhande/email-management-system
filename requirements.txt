@@ -4,6 +4,9 @@ nltk
 spacy
 yagmail  
 imapclient  
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
+=======
+>>>>>>> 747f868d7a20bc1990e2b0d7cc53b83db35d9791

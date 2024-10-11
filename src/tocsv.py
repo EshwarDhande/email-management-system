@@ -42,6 +42,7 @@ def save_emails_to_csv(emails, output_file):
     df.to_csv(output_file, index=False)  # Export DataFrame to CSV
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     email_types = ['generated_students_emails.txt', 'generated_corporate_emails.txt', 'generated_researchers_emails.txt']
     all_emails = []
     
@@ -53,3 +54,16 @@ if __name__ == "__main__":
     output_csv_file = 'emails_dataset.csv'
     save_emails_to_csv(all_emails, output_csv_file)
     print(f'Successfully saved emails to {output_csv_file}')
+=======
+    email_types = ['student_emails.txt', 'corporate_emails.txt', 'researcher_emails.txt']
+    all_emails = []
+    
+    for email_file in email_types:
+        file_path = os.path.join('data', 'mock_emails', email_file)
+        all_emails.extend(parse_emails(file_path))
+
+    # Save the parsed emails to a CSV file
+    output_csv_file = 'parsed_emails.csv'
+    save_emails_to_csv(all_emails, output_csv_file)
+    print(f'Successfully saved parsed emails to {output_csv_file}')
+>>>>>>> 747f868d7a20bc1990e2b0d7cc53b83db35d9791

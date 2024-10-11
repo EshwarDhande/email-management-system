@@ -1,5 +1,6 @@
 # Email Management System
 
+<<<<<<< HEAD
 ## Overview
 This project is an Email Management System designed to classify and respond to incoming emails automatically. It utilizes a machine learning model to categorize emails into three types: students, corporates, and researchers.
 
@@ -28,3 +29,15 @@ To set up the project locally, follow these steps:
    ```bash
    python src/email_processor.py
 
+=======
+A system for classifying emails and automating responses for different types of users.
+
+## Project Structure:
+- `src/`: Contains the source code.
+- `data/`: Data files.
+- `requirements.txt`: Lists the dependencies.
+
+## To Do:
+- Set up email parsing and classification model.
+- Automate responses for student queries.
+>>>>>>> 747f868d7a20bc1990e2b0d7cc53b83db35d9791

@@ -77,8 +77,11 @@ test_loader = DataLoader(test_dataset, batch_size=16)
 model = DistilBertForSequenceClassification.from_pretrained('distilbert-base-uncased', num_labels=len(label_encoder.classes_))
 optimizer = torch.optim.AdamW(model.parameters(), lr=2e-5)
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 747f868d7a20bc1990e2b0d7cc53b83db35d9791
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 model = model.to(device)
 
@@ -116,6 +119,7 @@ with torch.no_grad():
 
 # Step 9: Generate classification report
 print(classification_report(true_labels, predictions, target_names=label_encoder.classes_))
+<<<<<<< HEAD
 
 
 # Step 8: Save the model and tokenizer
@@ -126,3 +130,5 @@ os.makedirs(model_dir, exist_ok=True)  # Create directory if it doesn't exist
 model.save_pretrained(model_dir)
 tokenizer.save_pretrained(model_dir)
 print(f'Model and tokenizer saved to {model_dir}')
+=======
+>>>>>>> 747f868d7a20bc1990e2b0d7cc53b83db35d9791
