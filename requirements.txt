@@ -4,3 +4,6 @@ nltk
 spacy
 yagmail  
 imapclient  
+pandas
+numpy
+scikit-learn

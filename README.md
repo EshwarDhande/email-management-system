@@ -1,12 +1,22 @@
 # Email Management System
 
-A system for classifying emails and automating responses for different types of users.
+## Overview
+This project is an Email Management System designed to classify and respond to incoming emails automatically. It utilizes a machine learning model to categorize emails into three types: students, corporates, and researchers.
 
-## Project Structure:
-- `src/`: Contains the source code.
-- `data/`: Data files.
-- `requirements.txt`: Lists the dependencies.
+## Features
+- Email classification based on content
+- Automated responses for common inquiries
+- Dockerized for easy deployment
 
-## To Do:
-- Set up email parsing and classification model.
-- Automate responses for student queries.
+## Technologies Used
+- Python 3.9
+- PyTorch
+- Transformers (DistilBERT)
+- Docker
+
+## Installation
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
