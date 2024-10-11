@@ -75,7 +75,7 @@ def process_incoming_email(email_text):
     - response (str): The response message based on the predicted category.
     """
     # Use a relative path to the model directory
-    model_path = os.path.join(os.getcwd(), 'data', 'distilbert_email_model')
+    model_path = os.path.join(os.getcwd(),'..', 'data', 'distilbert_email_model')
 
     # Load the trained DistilBERT model and tokenizer
     try:
