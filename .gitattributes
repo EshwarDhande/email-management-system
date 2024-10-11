@@ -1,0 +1,2 @@
+data/distilbert_email_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+data/distilbert_email_model/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text

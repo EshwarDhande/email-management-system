@@ -1,6 +1,5 @@
 # Email Management System
 
-<<<<<<< HEAD
 ## Overview
 This project is an Email Management System designed to classify and respond to incoming emails automatically. It utilizes a machine learning model to categorize emails into three types: students, corporates, and researchers.
 
@@ -29,15 +28,15 @@ To set up the project locally, follow these steps:
    ```bash
    python src/email_processor.py
 
-=======
-A system for classifying emails and automating responses for different types of users.
+##Project Experience
 
-## Project Structure:
-- `src/`: Contains the source code.
-- `data/`: Data files.
-- `requirements.txt`: Lists the dependencies.
+In this project, I created an email dataset from scratch, comprising 50 emails for each of the following categories: students, researchers, and corporate professionals, resulting in a total of 66 million entries. I chose to train a DistilBERT model, as I believed the task at hand did not require a larger model with billions of parameters. My aim was to optimize memory usage, trading off some performance for efficiency.
 
-## To Do:
-- Set up email parsing and classification model.
-- Automate responses for student queries.
->>>>>>> 747f868d7a20bc1990e2b0d7cc53b83db35d9791
+Additionally, I intended to develop a dataset that would allow the model to generate responses to queries from students and researchers. However, due to time constraints, I opted for pre-made templates, ultimately settling on just three templates instead of dynamic generation.
+
+Initially, I planned to deploy a sophisticated email management system, but time limitations forced me to focus on a simpler solution that involved training the model for classification and generating emails based on that classification.
+
+Upon reflection, I realized that I spent considerable time strategizing and perfecting my plan instead of taking action earlier. In hindsight, I should have started executing the project sooner and planned concurrently.
+
+Nevertheless, it was an enjoyable experience overall. I am grateful to the team for giving me the opportunity, and I was delighted to be shortlisted from the exam. Thank you!
+
