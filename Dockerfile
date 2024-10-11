@@ -14,4 +14,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Command to run the email processor
-CMD ["python", "src/email_processor.py"]
+CMD ["python", "src/email_processor.py", "Sample email text"]
+
+

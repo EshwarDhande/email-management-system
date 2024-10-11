@@ -10,5 +10,6 @@ test_emails = [
 
 # Run the test
 for i, email in enumerate(test_emails):
+    print(f"Test Email {i + 1}: {email}\n")
     response = process_incoming_email(email)
-    print(f"Test Email {i + 1}: {email}\nResponse: {response}\n")
+    

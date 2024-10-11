@@ -8,15 +8,23 @@ This project is an Email Management System designed to classify and respond to i
 - Automated responses for common inquiries
 - Dockerized for easy deployment
 
-## Technologies Used
-- Python 3.9
-- PyTorch
-- Transformers (DistilBERT)
-- Docker
 
 ## Installation
 To set up the project locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone <repository-url>
+
+2. **Navigate to the project directory**
+   ```bash
+   cd email-management-system
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the application:**
+   ```bash
+   python src/email_processor.py
+
