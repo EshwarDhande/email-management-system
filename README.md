@@ -1,6 +1,5 @@
 # Email Management System
 
-<<<<<<< HEAD
 ## Overview
 This project is an Email Management System designed to classify and respond to incoming emails automatically. It utilizes a machine learning model to categorize emails into three types: students, corporates, and researchers.
 
